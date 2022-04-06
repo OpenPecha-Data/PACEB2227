@@ -1,0 +1,29 @@
+id: PACEB2227
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA30038
+  instance_id: http://purl.bdrc.io/resource/IE30038
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - ཁྲིད་ཡིག་ཀུན་བཟང་བླ་མའི་ཞལ་ལུང་།
+  alt_title: {}
+  author: http://purl.bdrc.io/resource/P270
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    25ff07e4d6694971b41288a672332e2f:
+      title: པོད ༡་ཁྲིད་ཡིག་ཀུན་བཟང་བླ་མའི་ཞལ་ལུང
+      volume_number: 1
+      base_file: UT30038_I1PD83971_0000.txt
+      reference: http://purl.bdrc.io/resource/VL5263023E82CBDDB4
+      image_group: I1PD83971
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W30038
+  - http://purl.bdrc.io/resource/MW30038
+  ocr_software: Namsel
+created_at: '2021-12-22T11:18:38.670555'
+last_modified_at: '2021-12-22T11:18:38.670562'
